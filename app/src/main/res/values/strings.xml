@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">MapKot</string>
+    <string name="car">try</string>
+    <string name="q_nsk"> На берегах какой реки лежит город Новосибирск?</string>
+    <string name="a_nsk" translatable="false">Енисей</string>
+    <string name="b_nsk" translatable="false">Обь</string>
+    <string name="c_nsk" translatable="false">Лена</string>
+    <string name="d_nsk" translatable="false">Ангара</string>
+    <string name="q_msk" translatable="false">В Москве много старинных монастырей. А какой из них самый древний?</string>
+    <string name="a_msk" translatable="false">Данилов</string>
+    <string name="b_msk" translatable="false">Знаменский</string>
+    <string name="c_msk" translatable="false">Донской</string>
+    <string name="d_msk" translatable="false">Серетинский</string>
+    <string name="q_spb" translatable="false">Какая первая постройка в Санкт-Петербурге?</string>
+    <string name="a_spb" translatable="false">Петропавловская крепость</string>
+    <string name="b_spb" translatable="false">Дворец Меньшикова</string>
+    <string name="c_spb" translatable="false">Домик Петра I</string>
+    <string name="d_spb" translatable="false">Адмиралтейство</string>
+    <string name="q_krs" translatable="false">В каком году был основан острог Красный Яр?</string>
+    <string name="a_krs" translatable="false">1619</string>
+    <string name="b_krs" translatable="false">1628</string>
+    <string name="c_krs" translatable="false">1623</string>
+    <string name="d_krs" translatable="false">1632</string>
+    <string name="q_irs" translatable="false">Какого официального названия Иркусткая область никогда НЕ имела?</string>
+    <string name="a_irs" translatable="false">Восточно-Сибирская\n область </string>
+    <string name="b_irs" translatable="false">Восточно-Сибирский\n край</string>
+    <string name="c_irs" translatable="false">Приангарье</string>
+    <string name="d_irs" translatable="false">Иркутская\n губерния </string>
+    <string name="u_irs" translatable="false">https://www.ogirk.ru/2022/12/02/desjat-faktov-ob-irkutskoj-oblasti/</string>
+    <string name="q_vld" translatable="false">Какой зверь изображен на гербе города Владивостока?</string>
+    <string name="a_vld" translatable="false">Золотой тигр</string>
+    <string name="b_vld" translatable="false">Красный лев</string>
+    <string name="c_vld" translatable="false">Золотой орёл</string>
+    <string name="d_vld" translatable="false">Черный тигр</string>
+    <string name="q_us" translatable="false">Какова длина острова Сахалин?</string>
+    <string name="a_us" translatable="false">948 км</string>
+    <string name="b_us" translatable="false">723 км</string>
+    <string name="c_us" translatable="false">1215 км</string>
+    <string name="d_us" translatable="false">1043 км</string>
+</resources>
